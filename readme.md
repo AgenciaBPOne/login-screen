@@ -18,7 +18,7 @@ Criar uma tela de login com base no design fornecido:
 ### 1. **Tela de Login**
 
 - Você receberá uma imagem com o design da tela de login que deve ser seguido.
-- Os **assets** (imagens, ícones, etc.) e o nome das fontes serão fornecidos.
+- Os **assets** (imagens, ícones, etc.) serão fornecidos.
 
 ### 2. **Front-end**
 
